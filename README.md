@@ -54,4 +54,4 @@ In this part, we refactor the script to use arrays and loops for better code org
 4. Dynamic display of tax tables based on the defined arrays.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.txt) file for details.
